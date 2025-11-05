@@ -11,7 +11,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/bg.jpg");
+    background-image: url("assets/bg.png");
     background-position: center center;
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
@@ -344,3 +344,4 @@ footer .questions {
         gap: 25px;
     }
 }
+
